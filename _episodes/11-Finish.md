@@ -19,7 +19,7 @@ rather than taking up memory on your own desktop or laptop. This means you can r
 ## How can I see what I have running in my session?
 
 Once you have a running session, you can check at any time which Notebook files are
- active by clicking on the 'Running Terminals and Kernels' icon ![icon]({{ site.baseurl }}/images/running.svg) on the left-hand side of the interface.
+ active by clicking on the 'Running Terminals and Kernels' icon `icon <img src="{{ "/images/running.svg" | absolute_url}}" alt="X icon"/> on the left-hand side of the interface.
 
 ![Running session]({{ site.baseurl }}/images/Shutdown.png)
 
